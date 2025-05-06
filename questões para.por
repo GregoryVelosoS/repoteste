@@ -1,9 +1,9 @@
 programa
 {
-	inteiro numero, somatorio = 0, inicial, final, incremento
+	inteiro numero, somatorio = 0, inicial = 0, final, incremento
 	
 	funcao inicio()
-	{  
+	{  
 	     // 1
 		para(inteiro i = 0; i < 9; i++){
 			escreva(i * 5, " ")
@@ -42,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 649; 
+ * @POSICAO-CURSOR = 51; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
